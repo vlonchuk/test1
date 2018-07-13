@@ -1,0 +1,16 @@
+.greeting-header {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.greeting-div {
+	width: 70%;
+    border: 2px solid gray
+}
+
+.greeting-p {
+    text-align: center;
+	color: green;
+	font-weight: bold;
+}
